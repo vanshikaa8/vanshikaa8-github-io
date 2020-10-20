@@ -132,7 +132,7 @@ button:hover {
   color: white;
 }
 .enquiry{
-    
+    text-align: center;
     background-color: ghostwhite;
     padding: 2%;
     border-radius: 15px;
@@ -169,6 +169,7 @@ textarea {
 }
 
 form label {
+   text-align: left;
   display: block;
     border-radius: 15px;
 }
